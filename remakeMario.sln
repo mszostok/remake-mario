@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remakeMario", "remakeMario\remakeMario.vcxproj", "{0E5C4851-5178-4D2E-9B4A-A0DFC2832116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5C4851-5178-4D2E-9B4A-A0DFC2832116}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E5C4851-5178-4D2E-9B4A-A0DFC2832116}.Debug|Win32.Build.0 = Debug|Win32
+		{0E5C4851-5178-4D2E-9B4A-A0DFC2832116}.Release|Win32.ActiveCfg = Release|Win32
+		{0E5C4851-5178-4D2E-9B4A-A0DFC2832116}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+-1  : b³ad zwracany przez bibilitekê standardow¹
+101 : b³ad inicjalizacji biblioteki allegro / okna
+102 : brak okreœlonego Sprite w bazie danych 
+103 : b³ad otwarcia pliku 
